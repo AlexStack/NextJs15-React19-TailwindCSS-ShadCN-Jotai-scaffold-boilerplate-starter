@@ -96,7 +96,8 @@ To get started with this boilerplate, follow these steps:
    - **Note**: If you encounter any issues with the React 19 dependencies, you can try to install them with the `--force` flag.
 
    ```bash
-   npm install --force
+   npm install && npm run dev
+   npm install --force && npm run dev
    ```
 
 3. **Run the development server**:

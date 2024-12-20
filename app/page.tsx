@@ -1,4 +1,3 @@
-import ClientComponent from "@/components/ClientComponent";
 import ClientComponent1 from "@/components/ClientComponent1";
 import ClientComponent2 from "@/components/ClientComponent2";
 import Image from "next/image";
