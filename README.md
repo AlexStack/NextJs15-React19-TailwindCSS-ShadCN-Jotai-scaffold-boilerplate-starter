@@ -87,13 +87,13 @@ To get started with this boilerplate, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AlexStack/NextJs15-React19-TailwindCSS-ShadCN-Jotai-scaffold-boilerplate-starter.git
+   cd next15-react19-jotai-shadcn-tailwindcss
    ```
 
 2. **Install dependencies**:
 
-   - **Note**: If you encounter any issues with the react19 dependencies, you can try to install them with the `--force` flag.
+   - **Note**: If you encounter any issues with the React 19 dependencies, you can try to install them with the `--force` flag.
 
    ```bash
    npm install --force
@@ -106,6 +106,12 @@ To get started with this boilerplate, follow these steps:
    ```
 
 4. **Open your browser** and navigate to `http://localhost:3000` to see your application in action.
+
+5. **Use different port, e.g 3210**:
+
+   ```bash
+   npm run dev -- --port 3210
+   ```
 
 ## Contributing
 
