@@ -87,7 +87,7 @@ To get started with this boilerplate, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AlexStack/NextJs15-React19-TailwindCSS-ShadCN-Jotai-scaffold-boilerplate-starter.git
+   git clone https://github.com/AlexStack/NextJs15-React19-TailwindCSS-ShadCN-Jotai-scaffold-boilerplate-starter.git next15-react19-jotai-shadcn-tailwindcss
    cd next15-react19-jotai-shadcn-tailwindcss
    ```
 

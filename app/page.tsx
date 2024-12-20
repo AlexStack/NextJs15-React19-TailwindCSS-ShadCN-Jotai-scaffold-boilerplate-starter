@@ -1,3 +1,6 @@
+import ClientComponent from "@/components/ClientComponent";
+import ClientComponent1 from "@/components/ClientComponent1";
+import ClientComponent2 from "@/components/ClientComponent2";
 import Image from "next/image";
 
 export default function Home() {
@@ -51,6 +54,10 @@ export default function Home() {
             Read our docs
           </a>
         </div>
+        <section>
+          <ClientComponent1 />
+          <ClientComponent2 />
+        </section>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
